@@ -12,7 +12,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0000.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9820787148310406</td>
     <td> 'subject_consistency':  </td>
   </tr>
  <tr>
@@ -51,7 +51,7 @@
   </tr>
 <tr>
     <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency': 0.9888694805674033 </td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
@@ -90,7 +90,7 @@
   </tr>
  <tr>
     <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9924546341494759</td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
@@ -130,7 +130,7 @@
   </tr>
 <tr>
     <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9920637539707788</td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
@@ -169,7 +169,7 @@
   </tr>
  <tr>
     <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9053296446800232</td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
@@ -208,7 +208,7 @@
   </tr>
 <tr>
     <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.884588364917453</td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
@@ -247,7 +247,7 @@
   </tr>
  <tr>
     <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency': 0.938259107936727 </td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
@@ -286,7 +286,7 @@
   </tr>
 <tr>
     <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  	0.997665008695999</td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
@@ -325,7 +325,7 @@
   </tr>
 <tr>
     <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9142468320851279</td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
@@ -364,8 +364,8 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0009.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency':  </td>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency': </td>
+    <td> 'subject_consistency':  0.9828780783285008 </td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
