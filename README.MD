@@ -15,7 +15,25 @@
     <td>  </td>
     <td>  </td>
   </tr>
+####
+  <tr>
+    <td colspan="2">prompt = "A majestic beauty of a waterfall cascading down a cliff into a serene lake. The waterfall, with its powerful flow, is the central focus of the video. The surrounding landscape is lush and green, with trees and foliage adding to the natural beauty of the scene. The camera angle provides a bird's eye view of the waterfall, allowing viewers to appreciate the full height and grandeur of the waterfall. The video is a stunning representation of nature's power and beauty."</td>
+  </tr>
+ <tr>
+    <td> 30 uniform steps </td>
+    <td> 23 optimized steps </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0001.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0001.mp4.gif" width=""></td>
+  </tr>
+ <tr>
+    <td>  </td>
+    <td>  </td>
+  </tr>
 </table>
+
+
 
 Demos are presented in compressed GIF format for convenience. For original quality samples and their corresponding prompts, please visit our [Gallery](https://hpcaitech.github.io/Open-Sora/).
 | **30 uniform sampling steps**                                                                                                                                    | 23 optimized sampling steps                                                                                                                                |
