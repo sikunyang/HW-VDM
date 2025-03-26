@@ -25,7 +25,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree': false </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -63,7 +63,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  true </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -102,7 +102,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree': false </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -142,7 +142,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  false</td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -181,7 +181,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  true</td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -220,7 +220,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree': true </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -259,7 +259,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  true</td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -298,7 +298,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  false </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -337,7 +337,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree': true </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
@@ -377,7 +377,7 @@
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
-    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  false </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  </td>
