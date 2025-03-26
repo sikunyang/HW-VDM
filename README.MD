@@ -12,7 +12,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0000.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9920608793744946 </td>
     <td> 'subject_consistency': 0.9820787148310406 </td>
   </tr>
  <tr>
@@ -50,7 +50,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0001.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency': 0.9844053337479582 </td>
     <td> 'subject_consistency': 0.9888694805674033 </td>
   </tr>
  <tr>
@@ -89,7 +89,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0002.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.987682035653898</td>
     <td> 'subject_consistency':  0.9924546341494759</td>
   </tr>
  <tr>
@@ -129,7 +129,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0003.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency': 0.9924598374579212 </td>
     <td> 'subject_consistency':  0.9920637539707788</td>
   </tr>
  <tr>
@@ -168,7 +168,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0004.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9292732049332987</td>
     <td> 'subject_consistency':  0.9053296446800232</td>
   </tr>
  <tr>
@@ -207,7 +207,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0005.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.920533811691964</td>
     <td> 'subject_consistency':  0.884588364917453</td>
   </tr>
  <tr>
@@ -246,7 +246,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0006.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9648802250918775</td>
     <td> 'subject_consistency': 0.938259107936727 </td>
   </tr>
  <tr>
@@ -285,7 +285,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0007.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency': 0.9830722097713168 </td>
     <td> 'subject_consistency':  	0.997665008695999</td>
   </tr>
  <tr>
@@ -324,7 +324,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0008.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  0.9243165773920493</td>
     <td> 'subject_consistency':  0.9142468320851279</td>
   </tr>
  <tr>
@@ -364,7 +364,7 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0009.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency': </td>
+    <td> 'subject_consistency': 0.9682016620541564</td>
     <td> 'subject_consistency':  0.9828780783285008 </td>
   </tr>
  <tr>
