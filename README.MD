@@ -33,7 +33,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality': 74.12417497821883 </td>
   </tr>
 <table>
 
@@ -71,7 +71,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality': 68.18425092510148 </td>
   </tr>
 </table>
 
@@ -110,7 +110,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  65.5180201436959 </td>
   </tr>
 </table>
 
@@ -150,7 +150,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  76.96138868144914</td>
   </tr>
 </table>
 
@@ -189,7 +189,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  42.67089200487324 </td>
   </tr>
 </table>
 
@@ -228,7 +228,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality': 39.52080311494715 </td>
   </tr>
 </table>
 
@@ -267,7 +267,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality': 42.693933898327394 </td>
   </tr>
 </table>
 
@@ -306,7 +306,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality': 55.87703098970301 </td>
   </tr>
 </table>
 
@@ -345,7 +345,7 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality': 42.30371841729856 </td>
   </tr>
 </table>
 
@@ -385,6 +385,6 @@
   </tr>
 <tr>
     <td> 'imaging_quality':  </td>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  46.88513602462469</td>
   </tr>
 </table>
