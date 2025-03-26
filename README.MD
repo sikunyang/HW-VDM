@@ -17,7 +17,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.9553996171101485 </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -55,7 +55,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9710004447710396</td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -94,7 +94,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 	0.9596877900680693 </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -134,7 +134,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.9878751547029703 </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -173,7 +173,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.9546285194925742 </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -212,7 +212,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.9490326229888614 </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -251,7 +251,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9325664255878713</td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -290,7 +290,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9939593324566832</td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -329,7 +329,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9584525835396039</td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
@@ -369,7 +369,7 @@
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.980647625309406</td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
