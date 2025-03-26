@@ -12,12 +12,28 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0000.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency': 0.957843362016253 </td>
+    <td> 'subject_consistency':  </td>
     <td> 'subject_consistency':  </td>
   </tr>
+ <tr>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
 <tr>
-    <td> 'subject_consistency': 0.957843362016253, 'background_consistency': 0.957843362016253, 'motion_smoothness': 0.957843362016253, 'dynamic_degree': 0.957843362016253, 'aesthetic_quality': 0.957843362016253, 'imaging_quality': 0.957843362016253  </td>
-    <td> 'subject_consistency': , 'background_consistency': , 'motion_smoothness': , 'dynamic_degree': , 'aesthetic_quality': , 'imaging_quality':  </td>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 <table>
 
