@@ -16,11 +16,11 @@
     <td> 'subject_consistency': 0.9820787148310406 </td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.9514087639232673 </td>
     <td> 'background_consistency': 0.9553996171101485 </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9942360601774777 </td>
     <td> 'motion_smoothness':  0.9933384512963991</td>
   </tr>
 <tr>
@@ -54,11 +54,11 @@
     <td> 'subject_consistency': 0.9888694805674033 </td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9589892094678217</td>
     <td> 'background_consistency':  0.9710004447710396</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9908184150455256</td>
     <td> 'motion_smoothness':  0.9826438697871707</td>
   </tr>
 <tr>
@@ -93,11 +93,11 @@
     <td> 'subject_consistency':  0.9924546341494759</td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9635892056002475</td>
     <td> 'background_consistency': 	0.9596877900680693 </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness': 0.9938602972648702 </td>
     <td> 'motion_smoothness': 0.9944292364194106 </td>
   </tr>
 <tr>
@@ -133,11 +133,11 @@
     <td> 'subject_consistency':  0.9920637539707788</td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.9845490408415841 </td>
     <td> 'background_consistency': 0.9878751547029703 </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness': 0.9960820396961195 </td>
     <td> 'motion_smoothness':  0.9927000199110043</td>
   </tr>
 <tr>
@@ -172,7 +172,7 @@
     <td> 'subject_consistency':  0.9053296446800232</td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9553271000928217 </td>
     <td> 'background_consistency': 0.9546285194925742 </td>
   </tr>
 <tr>
@@ -211,11 +211,11 @@
     <td> 'subject_consistency':  0.884588364917453</td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9432723545792079</td>
     <td> 'background_consistency': 0.9490326229888614 </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.99565589185884</td>
     <td> 'motion_smoothness':  0.9814788653682123</td>
   </tr>
 <tr>
@@ -250,11 +250,11 @@
     <td> 'subject_consistency': 0.938259107936727 </td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.949530573174505 </td>
     <td> 'background_consistency':  0.9325664255878713</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9869518876274305 </td>
     <td> 'motion_smoothness':  0.9330160631705513</td>
   </tr>
 <tr>
@@ -289,11 +289,11 @@
     <td> 'subject_consistency':  	0.997665008695999</td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.9736835744121287 </td>
     <td> 'background_consistency':  0.9939593324566832</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9902234974256998</td>
     <td> 'motion_smoothness': 0.9945257616922555 </td>
   </tr>
 <tr>
@@ -328,11 +328,11 @@
     <td> 'subject_consistency':  0.9142468320851279</td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  0.9523297300433168</td>
     <td> 'background_consistency':  0.9584525835396039</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9737508531544169</td>
     <td> 'motion_smoothness': 0.9696150538110946 </td>
   </tr>
 <tr>
@@ -368,11 +368,11 @@
     <td> 'subject_consistency':  0.9828780783285008 </td>
   </tr>
  <tr>
-    <td> 'background_consistency':  </td>
+    <td> 'background_consistency': 0.9757768989789604 </td>
     <td> 'background_consistency':  0.980647625309406</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9973488844699305</td>
     <td> 'motion_smoothness':  0.9957079471240803</td>
   </tr>
 <tr>
