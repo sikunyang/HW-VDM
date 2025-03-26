@@ -49,9 +49,29 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0001.mp4.gif" width=""> </td>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0001.mp4.gif" width=""></td>
   </tr>
+<tr>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
 
@@ -69,8 +89,28 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0002.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
+ <tr>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
 
@@ -88,9 +128,29 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0003.mp4.gif" width=""> </td>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0003.mp4.gif" width=""></td>
   </tr>
+<tr>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
 
@@ -108,8 +168,28 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0004.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
+ <tr>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
 
@@ -126,9 +206,29 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0005.mp4.gif" width=""> </td>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0005.mp4.gif" width=""></td>
   </tr>
+<tr>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
 
@@ -146,8 +246,28 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0006.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
+ <tr>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
 
@@ -164,9 +284,29 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0007.mp4.gif" width=""> </td>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0007.mp4.gif" width=""></td>
   </tr>
+<tr>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
 
@@ -183,9 +323,29 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0008.mp4.gif" width=""> </td>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0008.mp4.gif" width=""></td>
   </tr>
+<tr>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
 
@@ -203,8 +363,28 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0009.mp4.gif" width=""> </td>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0009.mp4.gif" width=""></td>
   </tr>
+<tr>
+    <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency':  </td>
+  </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'background_consistency':  </td>
+    <td> 'background_consistency':  </td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  </td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree':  </td>
+    <td> 'dynamic_degree':  </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  </td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  </td>
   </tr>
 </table>
