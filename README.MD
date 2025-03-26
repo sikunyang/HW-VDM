@@ -12,8 +12,8 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0000.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> 'subject_consistency': , 'background_consistency': , 'motion_smoothness': , 'dynamic_degree': , 'aesthetic_quality': , 'imaging_quality':  </td>
+    <td> 'subject_consistency': , 'background_consistency': , 'motion_smoothness': , 'dynamic_degree': , 'aesthetic_quality': , 'imaging_quality':  </td>
   </tr>
 <table>
 
