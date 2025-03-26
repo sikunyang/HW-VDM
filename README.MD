@@ -21,7 +21,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9933384512963991</td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -59,7 +59,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9826438697871707</td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -98,7 +98,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness': 0.9944292364194106 </td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -138,7 +138,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9927000199110043</td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -177,7 +177,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9874696068154725</td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -216,7 +216,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9814788653682123</td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -255,7 +255,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9330160631705513</td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -294,7 +294,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness': 0.9945257616922555 </td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -333,7 +333,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness': 0.9696150538110946 </td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
@@ -373,7 +373,7 @@
   </tr>
 <tr>
     <td> 'motion_smoothness':  </td>
-    <td> 'motion_smoothness':  </td>
+    <td> 'motion_smoothness':  0.9957079471240803</td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  </td>
