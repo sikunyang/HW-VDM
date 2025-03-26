@@ -32,7 +32,7 @@
     <td> 'aesthetic_quality':  0.5693199038505554</td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  70.39899736292222 </td>
     <td> 'imaging_quality': 74.12417497821883 </td>
   </tr>
 <table>
@@ -70,7 +70,7 @@
     <td> 'aesthetic_quality': 0.6635090112686157 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  71.69646394019033 </td>
     <td> 'imaging_quality': 68.18425092510148 </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@
     <td> 'aesthetic_quality': 0.731239914894104 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  46.20846303304037 </td>
     <td> 'imaging_quality':  65.5180201436959 </td>
   </tr>
 </table>
@@ -149,7 +149,7 @@
     <td> 'aesthetic_quality': 0.5984370708465576 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':   72.28787366081687 </td>
     <td> 'imaging_quality':  76.96138868144914</td>
   </tr>
 </table>
@@ -188,7 +188,7 @@
     <td> 'aesthetic_quality':  0.5335869789123535</td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  44.90290544547287 </td>
     <td> 'imaging_quality':  42.67089200487324 </td>
   </tr>
 </table>
@@ -227,7 +227,7 @@
     <td> 'aesthetic_quality': 0.43133744597435 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  37.50576213761872</td>
     <td> 'imaging_quality': 39.52080311494715 </td>
   </tr>
 </table>
@@ -266,7 +266,7 @@
     <td> 'aesthetic_quality': 0.5683530569076538 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  51.74699906741871</td>
     <td> 'imaging_quality': 42.693933898327394 </td>
   </tr>
 </table>
@@ -305,7 +305,7 @@
     <td> 'aesthetic_quality':  0.6308417320251465</td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality': 50.592345593022365 </td>
     <td> 'imaging_quality': 55.87703098970301 </td>
   </tr>
 </table>
@@ -344,7 +344,7 @@
     <td> 'aesthetic_quality': 0.5521793961524963 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  52.34590814627853 </td>
     <td> 'imaging_quality': 42.30371841729856 </td>
   </tr>
 </table>
@@ -384,7 +384,7 @@
     <td> 'aesthetic_quality':  0.6392085552215576</td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  </td>
+    <td> 'imaging_quality':  31.342033236634496 </td>
     <td> 'imaging_quality':  46.88513602462469</td>
   </tr>
 </table>
