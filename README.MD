@@ -28,7 +28,7 @@
     <td> 'dynamic_degree': false </td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  0.5573140382766724 </td>
     <td> 'aesthetic_quality':  0.5693199038505554</td>
   </tr>
 <tr>
@@ -66,7 +66,7 @@
     <td> 'dynamic_degree':  true </td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality': 0.6305229663848877 </td>
     <td> 'aesthetic_quality': 0.6635090112686157 </td>
   </tr>
 <tr>
@@ -105,7 +105,7 @@
     <td> 'dynamic_degree': false </td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality': 0.6963335275650024 </td>
     <td> 'aesthetic_quality': 0.731239914894104 </td>
   </tr>
 <tr>
@@ -145,7 +145,7 @@
     <td> 'dynamic_degree':  false</td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality': 0.5972610712051392 </td>
     <td> 'aesthetic_quality': 0.5984370708465576 </td>
   </tr>
 <tr>
@@ -184,7 +184,7 @@
     <td> 'dynamic_degree':  true</td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  0.5284085273742676 </td>
     <td> 'aesthetic_quality':  0.5335869789123535</td>
   </tr>
 <tr>
@@ -223,7 +223,7 @@
     <td> 'dynamic_degree': true </td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality': 0.47283586859703064 </td>
     <td> 'aesthetic_quality': 0.43133744597435 </td>
   </tr>
 <tr>
@@ -262,7 +262,7 @@
     <td> 'dynamic_degree':  true</td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality': 0.5762754678726196 </td>
     <td> 'aesthetic_quality': 0.5683530569076538 </td>
   </tr>
 <tr>
@@ -301,7 +301,7 @@
     <td> 'dynamic_degree':  false </td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  0.5640044212341309 </td>
     <td> 'aesthetic_quality':  0.6308417320251465</td>
   </tr>
 <tr>
@@ -340,7 +340,7 @@
     <td> 'dynamic_degree': true </td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality': 0.5639747977256775 </td>
     <td> 'aesthetic_quality': 0.5521793961524963 </td>
   </tr>
 <tr>
@@ -380,7 +380,7 @@
     <td> 'dynamic_degree':  false </td>
   </tr>
 <tr>
-    <td> 'aesthetic_quality':  </td>
+    <td> 'aesthetic_quality':  0.6389329433441162 </td>
     <td> 'aesthetic_quality':  0.6392085552215576</td>
   </tr>
 <tr>
