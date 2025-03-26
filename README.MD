@@ -12,8 +12,8 @@
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0000.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  0.9820787148310406</td>
     <td> 'subject_consistency':  </td>
+    <td> 'subject_consistency': 0.9820787148310406 </td>
   </tr>
  <tr>
     <td> 'background_consistency':  </td>
