@@ -5,11 +5,37 @@ The video resolution is 480 x 848. The video length is 4s. Flow is None.
   <tr>
     <td colspan="4">prompt = "A soaring drone footage captures the majestic beauty of a coastal cliff, its red and yellow stratified rock faces rich in color and against the vibrant turquoise of the sea. Seabirds can be seen taking flight around the cliff's precipices. As the drone slowly moves from different angles, the changing sunlight casts shifting shadows that highlight the rugged textures of the cliff and the surrounding calm sea. The water gently laps at the rock base and the greenery that clings to the top of the cliff, and the scene gives a sense of peaceful isolation at the fringes of the ocean. The video captures the essence of pristine natural beauty untouched by human structures."</td>
   </tr>
+ <tr>
+    <td> 30 uniform steps </td>
+    <td> 23 optimized steps </td>
+  </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0000.mp4.gif" width=""> </td>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0000.mp4.gif" width=""></td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0000.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0000.mp4.gif" width=""></td>
+  </tr>
+ <tr>
+    <td> 'subject_consistency':  0.9920608793744946 ✅</td>
+    <td> 'subject_consistency': 0.9820787148310406 </td>
+  </tr>
+ <tr>
+    <td> 'background_consistency': 0.9514087639232673 </td>
+    <td> 'background_consistency': 0.9553996171101485 ✅</td>
+  </tr>
+<tr>
+    <td> 'motion_smoothness':  0.9942360601774777 ✅</td>
+    <td> 'motion_smoothness':  0.9933384512963991</td>
+  </tr>
+<tr>
+    <td> 'dynamic_degree': false  </td>
+    <td> 'dynamic_degree': false </td>
+  </tr>
+<tr>
+    <td> 'aesthetic_quality':  0.5573140382766724 </td>
+    <td> 'aesthetic_quality':  0.5693199038505554 ✅</td>
+  </tr>
+<tr>
+    <td> 'imaging_quality':  70.39899736292222 </td>
+    <td> 'imaging_quality': 74.12417497821883 ✅</td>
   </tr>
 <table>
 
