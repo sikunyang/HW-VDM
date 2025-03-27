@@ -1,5 +1,5 @@
 The videos were generated using Open-Sora v1.2, with reflow sampling schedule, for which we compared the default 30 uniformly-spaced sampling steps against 23 optimized steps.
-The video resolution is 848 x 480. The video length is 4s. Flow is None.  
+The video resolution is 480 x 848. The video length is 4s. Flow is None.  
 
 <table>
   <tr>
