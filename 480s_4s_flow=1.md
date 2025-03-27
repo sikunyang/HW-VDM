@@ -48,8 +48,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0001.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0001.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0001.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0001.mp4.gif" width=""></td>
   </tr>
 <tr>
     <td> 'subject_consistency': 0.9844053337479582 </td>
@@ -87,8 +87,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0002.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0002.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0002.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0002.mp4.gif" width=""></td>
   </tr>
  <tr>
     <td> 'subject_consistency':  0.987682035653898 </td>
@@ -127,8 +127,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0003.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0003.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0003.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0003.mp4.gif" width=""></td>
   </tr>
 <tr>
     <td> 'subject_consistency': 0.9924598374579212 ✅</td>
@@ -166,8 +166,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0004.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0004.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0004.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0004.mp4.gif" width=""></td>
   </tr>
  <tr>
     <td> 'subject_consistency':  0.9292732049332987 ✅</td>
@@ -205,8 +205,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0005.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0005.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0005.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0005.mp4.gif" width=""></td>
   </tr>
 <tr>
     <td> 'subject_consistency':  0.920533811691964 ✅</td>
@@ -244,8 +244,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0006.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0006.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0006.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0006.mp4.gif" width=""></td>
   </tr>
  <tr>
     <td> 'subject_consistency':  0.9648802250918775 ✅</td>
@@ -283,8 +283,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0007.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0007.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0007.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0007.mp4.gif" width=""></td>
   </tr>
 <tr>
     <td> 'subject_consistency': 0.9830722097713168 </td>
@@ -322,8 +322,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0008.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0008.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0008.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0008.mp4.gif" width=""></td>
   </tr>
 <tr>
     <td> 'subject_consistency':  0.9243165773920493 ✅</td>
@@ -362,8 +362,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 23 optimized steps </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3DNone/sample_0009.mp4.gif" width=""> </td>
-    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0009.mp4.gif" width=""></td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0009.mp4.gif" width=""> </td>
+    <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0009.mp4.gif" width=""></td>
   </tr>
 <tr>
     <td> 'subject_consistency': 0.9682016620541564</td>
