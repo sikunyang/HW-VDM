@@ -1,5 +1,5 @@
 The videos were generated using Open-Sora v1.2, with reflow sampling schedule, for which we compared the default 30 uniformly-spaced sampling steps against 23 optimized steps.
-The video resolution is 848 x 480. The video length is 4s. Flow is None. 1st_place_medal::2nd_place_medal::3rd_place_medal
+The video resolution is 848 x 480. The video length is 4s. Flow is None.  
 
 <table>
   <tr>
@@ -14,7 +14,7 @@ The video resolution is 848 x 480. The video length is 4s. Flow is None. 1st_pla
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0000.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  0.9920608793744946 </td>
+    <td> 'subject_consistency':  0.9920608793744946 ✅</td>
     <td> 'subject_consistency': 0.9820787148310406 </td>
   </tr>
  <tr>
