@@ -116,7 +116,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'dynamic_degree': false </td>
-    <td> 'dynamic_degree': false </td>
+    <td> 'dynamic_degree': true </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality': 0.6963335275650024 </td>
@@ -332,7 +332,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'dynamic_degree':  false </td>
-    <td> 'dynamic_degree':  false </td>
+    <td> 'dynamic_degree':  true </td>
   </tr>
 <tr>
     <td> 'aesthetic_quality':  0.5640044212341309 </td>
