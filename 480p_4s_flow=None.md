@@ -248,7 +248,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is None.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3DNone/sample_0006.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  0.9648802250918775 </td>
+    <td> 'subject_consistency':  0.9548802250918775 </td>
     <td> 'subject_consistency': 0.938259107936727 </td>
   </tr>
  <tr>
@@ -256,8 +256,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is None.
     <td> 'background_consistency':  0.9325664255878713</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.9869518876274305 </td>
-    <td> 'motion_smoothness':  0.9330160631705513</td>
+    <td> 'motion_smoothness':  0.9669518876274305 </td>
+    <td> 'motion_smoothness':  0.9430160631705513</td>
   </tr>
 <tr>
     <td> 'dynamic_degree':  false</td>
@@ -269,7 +269,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is None.
   </tr>
 <tr>
     <td> 'imaging_quality':  51.74699906741871 </td>
-    <td> 'imaging_quality': 42.693933898327394 </td>
+    <td> 'imaging_quality': 46.693933898327394 </td>
   </tr>
 </table>
 
