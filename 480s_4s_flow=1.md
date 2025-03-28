@@ -39,7 +39,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':  70.39899736292222 </td>
-    <td> 'imaging_quality': 74.12417497821883 ✅</td>
+    <td> 'imaging_quality':  74.878360823089 </td>
   </tr>
 <table>
 
@@ -81,7 +81,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':  71.69646394019033 ✅</td>
-    <td> 'imaging_quality': 68.18425092510148 </td>
+    <td> 'imaging_quality': 50.560042399986116 </td>
   </tr>
 </table>
 
@@ -124,7 +124,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':  46.20846303304037 </td>
-    <td> 'imaging_quality':  65.5180201436959 ✅</td>
+    <td> 'imaging_quality':   57.38184390348547 </td>
   </tr>
 </table>
 
@@ -168,7 +168,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':   72.28787366081687 </td>
-    <td> 'imaging_quality':  76.96138868144914 ✅</td>
+    <td> 'imaging_quality':   76.33284220975987</td>
   </tr>
 </table>
 
@@ -211,7 +211,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':  44.90290544547287 ✅</td>
-    <td> 'imaging_quality':  42.67089200487324 </td>
+    <td> 'imaging_quality':  36.93602303897633 </td>
   </tr>
 </table>
 
@@ -254,7 +254,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':  37.50576213761872</td>
-    <td> 'imaging_quality': 39.52080311494715 ✅</td>
+    <td> 'imaging_quality':  37.42278013042375</td>
   </tr>
 </table>
 
@@ -297,7 +297,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':  51.74699906741871 ✅</td>
-    <td> 'imaging_quality': 42.693933898327394 </td>
+    <td> 'imaging_quality': 42.06966757306866 </td>
   </tr>
 </table>
 
@@ -340,7 +340,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality': 50.592345593022365 </td>
-    <td> 'imaging_quality': 55.87703098970301 ✅</td>
+    <td> 'imaging_quality':  64.51876995610256</td>
   </tr>
 </table>
 
@@ -383,7 +383,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':  52.34590814627853 ✅</td>
-    <td> 'imaging_quality': 42.30371841729856 </td>
+    <td> 'imaging_quality': 38.24103733137542 </td>
   </tr>
 </table>
 
@@ -427,6 +427,6 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
 <tr>
     <td> 'imaging_quality':  31.342033236634496 </td>
-    <td> 'imaging_quality':  46.88513602462469 ✅</td>
+    <td> 'imaging_quality':   41.528140124152685 </td>
   </tr>
 </table>
