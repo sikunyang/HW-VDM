@@ -346,8 +346,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is None.
     <td> 'aesthetic_quality': 0.5521793961524963 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  52.34590814627853 </td>
-    <td> 'imaging_quality': 42.30371841729856 </td>
+    <td> 'imaging_quality':  50.34590814627853 </td>
+    <td> 'imaging_quality': 48.30371841729856 </td>
   </tr>
 </table>
 
