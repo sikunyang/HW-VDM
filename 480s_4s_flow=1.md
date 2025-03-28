@@ -26,7 +26,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':   0.9814909074820725</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.9942360601774777 ✅</td>
+    <td> 'motion_smoothness':   0.9915272949038106</td>
     <td> 'motion_smoothness':  0.9906707866388169</td>
   </tr>
 <tr>
@@ -68,7 +68,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':  0.9729317309809666  </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.9908184150455256 ✅</td>
+    <td> 'motion_smoothness':   0.9654882754372713</td>
     <td> 'motion_smoothness':  0.9867093348568463</td>
   </tr>
 <tr>
@@ -111,7 +111,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':   0.9846093000150195 </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness': 0.9938602972648702 </td>
+    <td> 'motion_smoothness': 0.9940313862940354 </td>
     <td> 'motion_smoothness':  0.9917317652454064</td>
   </tr>
 <tr>
@@ -155,7 +155,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':  0.9759436046375948  </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness': 0.9960820396961195 ✅</td>
+    <td> 'motion_smoothness': 0.9938571343697332 </td>
     <td> 'motion_smoothness':  0.9868746444280019</td>
   </tr>
 <tr>
@@ -198,7 +198,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':  0.9699030090780819  </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.9972397223249887 ✅</td>
+    <td> 'motion_smoothness':   0.9961490394546183 </td>
     <td> 'motion_smoothness':  0.9843480266267933</td>
   </tr>
 <tr>
@@ -241,7 +241,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':    0.9543227476232192</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.99565589185884 ✅</td>
+    <td> 'motion_smoothness':   0.9924528596698113 </td>
     <td> 'motion_smoothness':  0.9738460265985325</td>
   </tr>
 <tr>
@@ -284,7 +284,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':    0.9579385458254347</td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.9869518876274305 ✅</td>
+    <td> 'motion_smoothness':  0.9891750738634029 </td>
     <td> 'motion_smoothness':  0.9649650569583179</td>
   </tr>
 <tr>
@@ -327,7 +327,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering': 0.9634274239633598   </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.9902234974256998</td>
+    <td> 'motion_smoothness':  0.9851895775527192 </td>
     <td> 'motion_smoothness':  0.9794058920515271</td>
   </tr>
 <tr>
@@ -370,7 +370,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':  0.9472533955293543  </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.9737508531544169 ✅</td>
+    <td> 'motion_smoothness':  0.9655242791574177 </td>
     <td> 'motion_smoothness': 0.9656884387075061 </td>
   </tr>
 <tr>
@@ -414,7 +414,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'temporal_flickering':   0.9952200894262276 </td>
   </tr>
 <tr>
-    <td> 'motion_smoothness':  0.9973488844699305 ✅</td>
+    <td> 'motion_smoothness':  0.9973630758776256 </td>
     <td> 'motion_smoothness':  0.9955775393595594 </td>
   </tr>
 <tr>
