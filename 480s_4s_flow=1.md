@@ -21,6 +21,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency': 0.9514087639232673 </td>
     <td> 'background_consistency': 0.9326486115408416 </td>
   </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':   0.9814909074820725</td>
+  </tr>
 <tr>
     <td> 'motion_smoothness':  0.9942360601774777 ✅</td>
     <td> 'motion_smoothness':  0.9933384512963991</td>
@@ -58,6 +62,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
  <tr>
     <td> 'background_consistency':  0.9589892094678217</td>
     <td> 'background_consistency':   0.9363228070853961 </td>
+  </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9729317309809666  </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  0.9908184150455256 ✅</td>
@@ -97,6 +105,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
  <tr>
     <td> 'background_consistency':  0.9635892056002475 ✅</td>
     <td> 'background_consistency': 	0.9488319925742574 </td>
+  </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':   0.9846093000150195 </td>
   </tr>
 <tr>
     <td> 'motion_smoothness': 0.9938602972648702 </td>
@@ -138,6 +150,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency': 0.9845490408415841 </td>
     <td> 'background_consistency':  0.9790740060334159 </td>
   </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9759436046375948  </td>
+  </tr>
 <tr>
     <td> 'motion_smoothness': 0.9960820396961195 ✅</td>
     <td> 'motion_smoothness':  0.9927000199110043</td>
@@ -176,6 +192,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
  <tr>
     <td> 'background_consistency':  0.9553271000928217 ✅</td>
     <td> 'background_consistency': 0.9308912824876238 </td>
+  </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9699030090780819  </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  0.9972397223249887 ✅</td>
@@ -216,6 +236,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency':  0.9432723545792079</td>
     <td> 'background_consistency':  0.9330329517326733 </td>
   </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':    0.9543227476232192</td>
+  </tr>
 <tr>
     <td> 'motion_smoothness':  0.99565589185884 ✅</td>
     <td> 'motion_smoothness':  0.9814788653682123</td>
@@ -254,6 +278,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
  <tr>
     <td> 'background_consistency': 0.949530573174505 ✅</td>
     <td> 'background_consistency':  0.9228273901608911</td>
+  </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':    0.9579385458254347</td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  0.9869518876274305 ✅</td>
@@ -294,6 +322,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency': 0.9736835744121287 </td>
     <td> 'background_consistency':   0.9272630143873762 </td>
   </tr>
+  <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering': 0.9634274239633598   </td>
+  </tr>
 <tr>
     <td> 'motion_smoothness':  0.9902234974256998</td>
     <td> 'motion_smoothness': 0.9945257616922555 ✅</td>
@@ -332,6 +364,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
  <tr>
     <td> 'background_consistency':  0.9523297300433168</td>
     <td> 'background_consistency':  0.9543892133353961 </td>
+  </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9472533955293543  </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  0.9737508531544169 ✅</td>
@@ -372,6 +408,10 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
  <tr>
     <td> 'background_consistency': 0.9757768989789604 </td>
     <td> 'background_consistency':  0.982666015625 </td>
+  </tr>
+    <tr>
+    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':   0.9952200894262276 </td>
   </tr>
 <tr>
     <td> 'motion_smoothness':  0.9973488844699305 ✅</td>
