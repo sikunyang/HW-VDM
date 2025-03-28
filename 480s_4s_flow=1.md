@@ -38,7 +38,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality':   0.533918559551239</td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  70.39899736292222 </td>
+    <td> 'imaging_quality':  75.73335400749656 </td>
     <td> 'imaging_quality':  74.878360823089 </td>
   </tr>
 <table>
@@ -80,7 +80,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality':  0.7368589043617249</td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  71.69646394019033 ✅</td>
+    <td> 'imaging_quality':  60.01047949697457 </td>
     <td> 'imaging_quality': 50.560042399986116 </td>
   </tr>
 </table>
@@ -123,7 +123,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality':  0.6447694301605225 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  46.20846303304037 </td>
+    <td> 'imaging_quality':  48.00134677512973 </td>
     <td> 'imaging_quality':   57.38184390348547 </td>
   </tr>
 </table>
@@ -167,7 +167,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality':  0.6216890811920166 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':   72.28787366081687 </td>
+    <td> 'imaging_quality':   51.001968271592084 </td>
     <td> 'imaging_quality':   76.33284220975987</td>
   </tr>
 </table>
@@ -210,7 +210,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality':   0.4264434278011322 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  44.90290544547287 ✅</td>
+    <td> 'imaging_quality':   37.13797264473111 </td>
     <td> 'imaging_quality':  36.93602303897633 </td>
   </tr>
 </table>
@@ -253,8 +253,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality': 0.39287248253822327 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  37.50576213761872</td>
-    <td> 'imaging_quality':  37.42278013042375</td>
+    <td> 'imaging_quality':  35.74580200045717 </td>
+    <td> 'imaging_quality':  37.42278013042375 </td>
   </tr>
 </table>
 
@@ -296,7 +296,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality': 0.5783047676086426 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  51.74699906741871 ✅</td>
+    <td> 'imaging_quality': 51.90224602643181 </td>
     <td> 'imaging_quality': 42.06966757306866 </td>
   </tr>
 </table>
@@ -339,7 +339,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality':   0.5919778943061829</td>
   </tr>
 <tr>
-    <td> 'imaging_quality': 50.592345593022365 </td>
+    <td> 'imaging_quality': 48.76806842579561 </td>
     <td> 'imaging_quality':  64.51876995610256</td>
   </tr>
 </table>
@@ -382,7 +382,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality': 0.5047061443328857 </td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  52.34590814627853 ✅</td>
+    <td> 'imaging_quality':    36.956253444447235 </td>
     <td> 'imaging_quality': 38.24103733137542 </td>
   </tr>
 </table>
@@ -426,7 +426,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'aesthetic_quality':   0.6457046866416931</td>
   </tr>
 <tr>
-    <td> 'imaging_quality':  31.342033236634496 </td>
+    <td> 'imaging_quality':  31.66141315535003 </td>
     <td> 'imaging_quality':   41.528140124152685 </td>
   </tr>
 </table>
