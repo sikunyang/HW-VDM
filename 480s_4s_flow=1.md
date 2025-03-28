@@ -320,7 +320,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 'background_consistency': 0.977360187190594 </td>
-    <td> 'background_consistency':   0.9272630143873762 </td>
+    <td> 'background_consistency':   0.9572630143873762 </td>
   </tr>
   <tr>
     <td> 'temporal_flickering':  0.9804452578226726    </td>
