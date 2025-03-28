@@ -14,7 +14,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0000.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  0.9920608793744946 ✅</td>
+    <td> 'subject_consistency':  0.977477235369163</td>
     <td> 'subject_consistency': 0.9608648056441015</td>
   </tr>
  <tr>
@@ -56,7 +56,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0001.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency': 0.9844053337479582 </td>
+    <td> 'subject_consistency': 0.9413166603829601 </td>
     <td> 'subject_consistency': 0.9740810494611759 </td>
   </tr>
  <tr>
@@ -99,7 +99,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0002.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  0.987682035653898 </td>
+    <td> 'subject_consistency':  0.974648779276574 </td>
     <td> 'subject_consistency':   0.9711739355974859 </td>
   </tr>
  <tr>
@@ -143,7 +143,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0003.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency': 0.9924598374579212 ✅</td>
+    <td> 'subject_consistency':  0.9858280033758371 </td>
     <td> 'subject_consistency':  0.989729111737544 </td>
   </tr>
  <tr>
@@ -186,7 +186,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0004.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  0.9292732049332987 ✅</td>
+    <td> 'subject_consistency':   0.9037679843973405</td>
     <td> 'subject_consistency':  0.8545242527333816 </td>
   </tr>
  <tr>
@@ -229,7 +229,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0005.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency':  0.920533811691964 ✅</td>
+    <td> 'subject_consistency':   0.9333911968929933</td>
     <td> 'subject_consistency':  0.8753280642599163</td>
   </tr>
  <tr>
@@ -272,7 +272,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0006.mp4.gif" width=""></td>
   </tr>
  <tr>
-    <td> 'subject_consistency':  0.9648802250918775 ✅</td>
+    <td> 'subject_consistency':  0.9520735433786223 </td>
     <td> 'subject_consistency': 0.9434781056819576 </td>
   </tr>
  <tr>
@@ -315,8 +315,8 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0007.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency': 0.9830722097713168 </td>
-    <td> 'subject_consistency':  	0.9757907912872805 ✅</td>
+    <td> 'subject_consistency': 0.9800284693736842 </td>
+    <td> 'subject_consistency':  	0.9757907912872805 </td>
   </tr>
  <tr>
     <td> 'background_consistency': 0.9736835744121287 </td>
@@ -358,7 +358,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0008.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency':  0.9243165773920493 ✅</td>
+    <td> 'subject_consistency':  0.9021342606237619 </td>
     <td> 'subject_consistency':  0.8993371967041847</td>
   </tr>
  <tr>
@@ -402,7 +402,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_23steps_flow%3D1/sample_0009.mp4.gif" width=""></td>
   </tr>
 <tr>
-    <td> 'subject_consistency': 0.9682016620541564</td>
+    <td> 'subject_consistency': 0.9550231771894021 </td>
     <td> 'subject_consistency':   0.9809029317728364 </td>
   </tr>
  <tr>
