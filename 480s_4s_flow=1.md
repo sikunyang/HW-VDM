@@ -18,7 +18,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency': 0.9608648056441015</td>
   </tr>
  <tr>
-    <td> 'background_consistency': 0.9514087639232673 </td>
+    <td> 'background_consistency': 0.9495619972153465 </td>
     <td> 'background_consistency': 0.9326486115408416 </td>
   </tr>
     <tr>
@@ -60,7 +60,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency': 0.9740810494611759 </td>
   </tr>
  <tr>
-    <td> 'background_consistency':  0.9589892094678217</td>
+    <td> 'background_consistency':  0.931087078434406</td>
     <td> 'background_consistency':   0.9363228070853961 </td>
   </tr>
     <tr>
@@ -103,7 +103,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency':   0.9711739355974859 </td>
   </tr>
  <tr>
-    <td> 'background_consistency':  0.9635892056002475 ✅</td>
+    <td> 'background_consistency':   0.9684333423576733 </td>
     <td> 'background_consistency': 	0.9488319925742574 </td>
   </tr>
     <tr>
@@ -147,7 +147,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency':  0.989729111737544 </td>
   </tr>
  <tr>
-    <td> 'background_consistency': 0.9845490408415841 </td>
+    <td> 'background_consistency': 0.972213896194307 </td>
     <td> 'background_consistency':  0.9790740060334159 </td>
   </tr>
     <tr>
@@ -190,7 +190,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency':  0.8545242527333816 </td>
   </tr>
  <tr>
-    <td> 'background_consistency':  0.9553271000928217 ✅</td>
+    <td> 'background_consistency':   0.944045869430693</td>
     <td> 'background_consistency': 0.9308912824876238 </td>
   </tr>
     <tr>
@@ -233,7 +233,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency':  0.8753280642599163</td>
   </tr>
  <tr>
-    <td> 'background_consistency':  0.9432723545792079</td>
+    <td> 'background_consistency':  0.9619986656868812 </td>
     <td> 'background_consistency':  0.9330329517326733 </td>
   </tr>
     <tr>
@@ -276,7 +276,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency': 0.9434781056819576 </td>
   </tr>
  <tr>
-    <td> 'background_consistency': 0.949530573174505 ✅</td>
+    <td> 'background_consistency':  0.9475411896658416 </td>
     <td> 'background_consistency':  0.9228273901608911</td>
   </tr>
     <tr>
@@ -319,7 +319,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency':  	0.9757907912872805 </td>
   </tr>
  <tr>
-    <td> 'background_consistency': 0.9736835744121287 </td>
+    <td> 'background_consistency': 0.977360187190594 </td>
     <td> 'background_consistency':   0.9272630143873762 </td>
   </tr>
   <tr>
@@ -362,7 +362,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency':  0.8993371967041847</td>
   </tr>
  <tr>
-    <td> 'background_consistency':  0.9523297300433168</td>
+    <td> 'background_consistency':  0.9515078705136139 </td>
     <td> 'background_consistency':  0.9543892133353961 </td>
   </tr>
     <tr>
@@ -406,7 +406,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'subject_consistency':   0.9809029317728364 </td>
   </tr>
  <tr>
-    <td> 'background_consistency': 0.9757768989789604 </td>
+    <td> 'background_consistency': 0.9614523708230198 </td>
     <td> 'background_consistency':  0.982666015625 </td>
   </tr>
     <tr>
