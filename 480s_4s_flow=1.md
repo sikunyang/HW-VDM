@@ -22,7 +22,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency': 0.9326486115408416 </td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9787631876328412 </td>
     <td> 'temporal_flickering':   0.9814909074820725</td>
   </tr>
 <tr>
@@ -64,7 +64,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency':   0.9363228070853961 </td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering': 0.951684918123133 </td>
     <td> 'temporal_flickering':  0.9729317309809666  </td>
   </tr>
 <tr>
@@ -107,7 +107,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency': 	0.9488319925742574 </td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.991339833128686   </td>
     <td> 'temporal_flickering':   0.9846093000150195 </td>
   </tr>
 <tr>
@@ -151,7 +151,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency':  0.9790740060334159 </td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.99138583575978 </td>
     <td> 'temporal_flickering':  0.9759436046375948  </td>
   </tr>
 <tr>
@@ -194,7 +194,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency': 0.9308912824876238 </td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering': 0.9947753312540989 </td>
     <td> 'temporal_flickering':  0.9699030090780819  </td>
   </tr>
 <tr>
@@ -237,7 +237,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency':  0.9330329517326733 </td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.98594085001478</td>
     <td> 'temporal_flickering':    0.9543227476232192</td>
   </tr>
 <tr>
@@ -280,7 +280,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency':  0.9228273901608911</td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9851884879317938 </td>
     <td> 'temporal_flickering':    0.9579385458254347</td>
   </tr>
 <tr>
@@ -323,7 +323,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency':   0.9272630143873762 </td>
   </tr>
   <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9804452578226726    </td>
     <td> 'temporal_flickering': 0.9634274239633598   </td>
   </tr>
 <tr>
@@ -366,7 +366,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency':  0.9543892133353961 </td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9464802386713963 </td>
     <td> 'temporal_flickering':  0.9472533955293543  </td>
   </tr>
 <tr>
@@ -410,7 +410,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
     <td> 'background_consistency':  0.982666015625 </td>
   </tr>
     <tr>
-    <td> 'temporal_flickering':  </td>
+    <td> 'temporal_flickering':  0.9972159418405271 </td>
     <td> 'temporal_flickering':   0.9952200894262276 </td>
   </tr>
 <tr>
