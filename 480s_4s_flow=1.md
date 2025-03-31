@@ -1,4 +1,4 @@
-The videos were generated using Open-Sora v1.2, with reflow sampling schedule, for which we compared the default 30 uniformly-spaced sampling steps against 23 optimized steps.
+The videos were generated using Open-Sora v1.2, with reflow sampling schedule, for which we compared the default 30 uniformly-spaced sampling steps against 22 optimized steps.
 The video resolution is 480 x 848. The video length is 4s. Flow is 1.  
 
 <table>
@@ -7,7 +7,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0000.mp4.gif" width=""> </td>
@@ -49,7 +49,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0001.mp4.gif" width=""> </td>
@@ -92,7 +92,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0002.mp4.gif" width=""> </td>
@@ -136,7 +136,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0003.mp4.gif" width=""> </td>
@@ -179,7 +179,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0004.mp4.gif" width=""> </td>
@@ -222,7 +222,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0005.mp4.gif" width=""> </td>
@@ -265,7 +265,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0006.mp4.gif" width=""> </td>
@@ -308,7 +308,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0007.mp4.gif" width=""> </td>
@@ -351,7 +351,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0008.mp4.gif" width=""> </td>
@@ -395,7 +395,7 @@ The video resolution is 480 x 848. The video length is 4s. Flow is 1.
   </tr>
  <tr>
     <td> 30 uniform steps </td>
-    <td> 23 optimized steps </td>
+    <td> 22 optimized steps </td>
   </tr>
   <tr>
     <td><img src="https://github.com/sikunyang/HW-VDM/blob/main/480p_4s_30steps_flow%3D1/sample_0009.mp4.gif" width=""> </td>
